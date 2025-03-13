@@ -1,0 +1,5 @@
+2025-03-12 21:08:39 | buscando os dados no site
+2025-03-12 21:08:49 | gerando arquivo csv
+2025-03-12 21:09:37 | iniciando scrapping via API
+2025-03-12 21:10:21 | dados retornados com sucesso
+2025-03-12 21:10:21 | Arquivo gerado
